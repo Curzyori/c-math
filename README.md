@@ -10,13 +10,13 @@
 ## 📸 Preview
 
 ````carousel
-![Mathematical Engine](https://raw.githubusercontent.com/Curzyori/C-Math-5/main/images/math/basic1.png)
+![Mathematical Engine](images/math/basic1.png)
 <!-- slide -->
-![Calculation Workflow](https://raw.githubusercontent.com/Curzyori/C-Math-5/main/images/math/basic2.png)
+![Calculation Workflow](images/math/basic2.png)
 <!-- slide -->
-![Financial Analysis](https://raw.githubusercontent.com/Curzyori/C-Math-5/main/images/finance/profit1.png)
+![Financial Analysis](images/finance/profit1.png)
 <!-- slide -->
-![Profit Optimization](https://raw.githubusercontent.com/Curzyori/C-Math-5/main/images/finance/profit2.png)
+![Profit Optimization](images/finance/profit2.png)
 ````
 
 ---

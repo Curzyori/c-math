@@ -1,94 +1,76 @@
-# C Math 🧪
+<p align="center">
+  <img src="images/math/dashboard1.png" alt="Header Banner" width="100%"/>
+</p>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-emerald.svg)](https://github.com/Curzyori/C-Math-5)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<h1 align="center">C Math</h1>
+<p align="center">
+  <strong>Precision-engineered calculator and financial engine</strong>
+</p>
 
-**C Math** is a precision-engineered calculator and financial engine built for power users. It combines a sleek, modern aesthetic with robust mathematical accuracy, featuring specialized modules for profit calculations and DCA (Dollar Cost Averaging) tracking.
+<p align="center">
+  <a href="https://c-math.curzy.dev"><strong>🌐 Live Demo Website</strong></a>
+</p>
 
----
+<div align="center">
 
-## 📸 Preview
+[![Stars](https://img.shields.io/github/stars/Curzyori/c-math?style=for-the-badge&color=blue)](https://github.com/Curzyori/c-math/stargazers)
+[![Forks](https://img.shields.io/github/forks/Curzyori/c-math?style=for-the-badge&color=blue)](https://github.com/Curzyori/c-math/network/members)
+[![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Web-black?style=for-the-badge)](#)
 
-| Mathematical Engine | Calculation Workflow |
-| :---: | :---: |
-| ![Mathematical Engine](images/math/basic1.png) | ![Calculation Workflow](images/math/basic2.png) |
-| **Financial Analysis** | **Profit Optimization** |
-| ![Financial Analysis](images/finance/profit1.png) | ![Profit Optimization](images/finance/profit2.png) |
+</div>
 
----
-
-## ✨ Features
-
-- **🚀 Advanced Math Engine**: Handles everything from basic arithmetic to complex expressions with high precision using `mathjs`.
-- **💰 Finance Hub**: Specialized tools for calculating profit margins, ROI, and DCA strategies.
-- **📜 Session History**: Automatic activity logging so you never lose track of your previous calculations.
-- **🌌 Curzy Aesthetic**: A premium dark-mode interface with glassmorphism, neon accents, and smooth animations.
-- **📱 Responsive Design**: Fully optimized for both desktop and mobile workflows.
-
----
-
-## 🛠️ Tech Stack
-
-- **Core**: [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animation**: [Framer Motion](https://www.framer.com/motion/)
-- **Math Logic**: [mathjs](https://mathjs.org/)
-- **Icons**: [Lucide React](https://lucide.dev/)
+<p align="center">
+  <a href="#-why-c-math">Why This</a> ·
+  <a href="#-key-features">Features</a> ·
+  <a href="#-quick-start">Quick Start</a>
+</p>
 
 ---
 
-## 🚀 Getting Started
+## 🕒 Why C Math?
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or higher recommended)
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Curzyori/C-Math-5.git
-   cd C-Math-5
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
+A modern, precision-engineered calculator and financial engine. It provides advanced mathematical and financial tools in a clean, user-friendly interface with real-time computation capabilities.
 
 ---
 
-## 📖 Tutorial: How to Use
+## 🎯 Key Features
 
-### 1. Basic Calculation
-Simply type your expression or use the custom keypad. Press `Enter` or `=` to get the result. All results are saved to your **Activity Log** on the right.
-
-### 2. Financial Profit
-Switch to the **Finance Panel** to calculate your gains. Input your buying price, selling price, and volume to see your net profit and percentage increase instantly.
-
-### 3. Managing History
-Your history is saved within the current session. You can click on any previous result to re-import it into the engine, or use the **Clear** button to wipe the log.
+- **Advanced Calculator**: Handles complex mathematical operations with precision using math.js
+- **Financial Engine**: Built-in tools for financial calculations and metrics
+- **Responsive UI**: Built with React and Vite, styled with Tailwind CSS for a seamless experience
+- **Real-time Computation**: Instant results as you type
 
 ---
 
-## 👤 Author
+## 🛠 Tech Stack
 
-**Curzyori**
-- GitHub: [@Curzyori](https://github.com/Curzyori)
+- **Frontend**: React 19, Vite
+- **Styling**: Tailwind CSS v4
+- **Math Engine**: math.js
+- **Icons**: Lucide React
+
+---
+
+## 🚀 Quick Start
+
+### Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Curzyori/c-math.git
+cd c-math
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
 
 ---
 
 ## 📄 License
+This project is released under the **MIT License** — free for educational, personal, and research purposes.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<sub>Built with passion as the 5th Project of the 50 Projects Challenge by **@curzyori**</sub>

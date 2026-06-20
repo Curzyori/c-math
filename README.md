@@ -9,15 +9,11 @@
 
 ## 📸 Preview
 
-````carousel
-![Mathematical Engine](images/math/basic1.png)
-<!-- slide -->
-![Calculation Workflow](images/math/basic2.png)
-<!-- slide -->
-![Financial Analysis](images/finance/profit1.png)
-<!-- slide -->
-![Profit Optimization](images/finance/profit2.png)
-````
+| Mathematical Engine | Calculation Workflow |
+| :---: | :---: |
+| ![Mathematical Engine](images/math/basic1.png) | ![Calculation Workflow](images/math/basic2.png) |
+| **Financial Analysis** | **Profit Optimization** |
+| ![Financial Analysis](images/finance/profit1.png) | ![Profit Optimization](images/finance/profit2.png) |
 
 ---
 

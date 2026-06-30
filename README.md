@@ -73,4 +73,17 @@ npm run dev
 ## 📄 License
 This project is released under the **MIT License** — free for educational, personal, and research purposes.
 
+
+
+## ☕ Support
+
+If this project is useful, consider supporting its development!
+
+<p align="center">
+  <a href="https://donate.curzy.dev/"><strong>💝 Donate via Crypto or QRIS</strong></a>
+</p>
+
+Crypto payment details are maintained at [donate.curzy.dev](https://donate.curzy.dev/).
+
 <sub>Built with passion as the 5th Project of the 50 Projects Challenge by **@curzyori**</sub>
+
